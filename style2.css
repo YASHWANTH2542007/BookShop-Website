@@ -1,0 +1,100 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+ul{
+    list-style-type: none;
+    margin-left: 33%;
+}
+li{
+    float: left;
+    padding-right: 25px;
+}
+
+ul a{
+    display: inline-block;
+}
+a:hover{
+    color: darkred;
+}
+#header{
+    position: relative;
+}
+#i1{
+    font-size: 50px;
+    color: brown;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+#i1:hover{
+    color: darkred;
+}
+h5{
+    text-align: right; 
+    margin:-25px auto;
+    margin-right: 9px;
+}
+button{
+    border-radius: 15px;
+    background-color: white;
+    border-color: whitesmoke;
+}
+
+.one{
+    border-radius: 100%;
+
+}
+#schoolbooks{
+    text-align: center;
+    background-color: whitesmoke;
+
+}
+#enginebook{
+    text-align: center;
+    background-color: whitesmoke;
+}
+#aibook{
+    background-color: whitesmoke;
+    text-align: center;
+}
+#books{
+    background-color: cornflowerblue;
+}
+#about{
+    background-color: grey;
+}
+#gallery{
+    background-color: aliceblue;
+}
+#i2,#i3,#i4,#i5{
+    font-size: 40px;
+}
+#i2{
+    color: blue;
+}
+#i3{
+    color: #e91430;
+}
+#i4{
+    color: blue;
+}
+#i5{
+    color:red;
+}
+.a1{
+    color: black;
+}
+.a1:hover{
+    color: dimgray;
+}
+#below{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.a2{
+    color: red;
+}
+.a2:hover{
+    color: red;
+}
